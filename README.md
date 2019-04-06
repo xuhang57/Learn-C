@@ -1,2 +1,3 @@
-# Learn-C
-Learn C with code snippets
+# Learn C
+
+* https://beej.us/guide/bgc/
