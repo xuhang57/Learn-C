@@ -3,7 +3,7 @@
 
 /* C is a strongly-typed language so you have to declare the type */
 int main(void) {
-    int i;
+    int i; // "int" is keyword,  "i" is identifier, and this line is called declaration
     float f;
 
     i = 2;
@@ -42,4 +42,3 @@ int main(void) {
         printf("run forever");
     }
 }
-

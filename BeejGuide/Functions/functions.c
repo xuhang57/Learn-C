@@ -34,7 +34,7 @@ Passing by Value:
     when you pass a value to a function, a **copy** of that value gets made in the stack
     note that C specification doesn't say anything about a stack.
 Passing by Reference:
-    that's how java/python works. In C, you need to explicit claim it is a pointer in the function parameters
+    that's how Java/Python works. In C, you need to explicit claim it is a pointer in the function parameters
 
 Prototypes:
     notify the complier in advance that you will be using a function of a certain type that has a certain parameter
