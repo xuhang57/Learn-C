@@ -4,6 +4,8 @@ void print_plus_one(void) {
     static int a = 0; // static storage class
 
     printf("%d\n", a);
+
+    a++; // increment the static value
 }
 
 int main(void) {

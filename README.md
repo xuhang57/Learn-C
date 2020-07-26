@@ -21,7 +21,7 @@
 
 ### Challenges
 
-* **Easiness** level.
+* Easiness level.
 * Manage memory yourself.
 * Verboseness.
 * No Object-Oriented Programming.
