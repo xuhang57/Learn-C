@@ -39,6 +39,5 @@ Passing by Reference:
 Prototypes:
     notify the complier in advance that you will be using a function of a certain type that has a certain parameter
     list and that way the function can be defined anywhere at all, as long as the function prototype has been decalared first
-    
 
 */
