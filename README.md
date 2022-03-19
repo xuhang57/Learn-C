@@ -6,6 +6,7 @@
 * [Wikibooks: C Programming](https://en.wikibooks.org/wiki/C_Programming)
 * [Learning C with GDB](https://www.recurse.com/blog/5-learning-c-with-gdb)
 * [Angrave's C Crash Course](https://github.com/angrave/SystemProgramming/wiki/C-Programming%2C-Part-1%3A-Introduction)
+* [Stanford Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
 * [BU CS Teaching](https://www.cs.bu.edu/teaching/c/)
 
 ## Virtues and Challenges
@@ -26,6 +27,10 @@
 * Verboseness.
 * No Object-Oriented Programming.
 * No runtime checking.
+
+## Reasons to Learn C
+
+* [Toptal: How to Learn the C and C++ Languages](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
 ## Useful Links
 
